@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BerlinVincent, but call me Vincent.
+- 📖 I’m interested in C/C++, Java, just coding in general.
+- ⚡ Fun fact: Cats get you lightly addicted when you pet them.
